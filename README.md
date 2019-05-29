@@ -1,1 +1,1 @@
-# Hotel System
+# Hospital System
